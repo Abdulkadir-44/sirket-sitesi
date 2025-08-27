@@ -17,6 +17,14 @@ const config: Config = {
                     600: '#2563eb',
                     700: '#1d4ed8',
                     900: '#1e3a8a',
+                },
+                dark: {
+                    'background': '#111827', // gray-900
+                    'text': '#f9fafb', // gray-50
+                },
+                orange: {
+                    'accent': '#f97316', // orange-500
+                    'hover': '#ea580c', // orange-600
                 }
             },
             fontFamily: {
